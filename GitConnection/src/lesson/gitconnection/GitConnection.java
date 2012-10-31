@@ -9,6 +9,7 @@ public class GitConnection {
 		// TODO Auto-generated method stub
 		System.out.println("I made a change!");
 		//5
+		//test
 	}
 
 }
